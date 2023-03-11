@@ -6,6 +6,8 @@ The question:
 > 
 > (Windows, Python 3.10)
 
+See code comments for additional information.
+
 Example 1 (working, correct multicast address):
 
 ![correct](images/correct-mcast-group.PNG)
